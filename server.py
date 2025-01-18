@@ -26,7 +26,7 @@ from langchain.llms import HuggingFaceHub
 # Configuración del modelo remoto (Hugging Face)
 llm_remote = HuggingFaceHub(
     repo_id="microsoft/Phi-3-mini-4k-instruct",
-    huggingfacehub_api_token="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_",
+    huggingfacehub_api_token="hf_Qoiejrgjoidfjgidofjgodfjgojodjkjgbnk",
     model_kwargs={
         "max_length": 1000,
         "temperature": 0.7,
